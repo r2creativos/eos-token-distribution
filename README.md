@@ -1,3 +1,2 @@
-The Web Interface is being updated... 
-
-https://etherscan.io/address/0xd0a6e6c54dbc68db5db3a091b171a77407ff7ccf
+Esto generará un par de claves pública y privada para la cadena EOS. El código no es mío.
+Está bifurcado del código que creó el equipo de EOS. 
